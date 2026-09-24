@@ -1,0 +1,2 @@
+UCB
+UCB is appropriate because the rewards vary by arm and are noisy, so it balances exploring uncertain arms with exploiting the arm that appears best, while uniform random wastes pulls and pure greedy ignores uncertainty.
